@@ -4,6 +4,10 @@
 <p>- 📩 Как со мной связаться: 9256187876@mail.ru</p>
 <hr>
 
+<h2>Как я прокрастинирую:</h2>
+<img src="https://www.codewars.com/users/Tymphoto/badges/large" alt="codewars" />
+<hr>
+
 <p>Видео как я познаю новые инструменты, смотреть онлайн без регистрации:</p> <br>
 <img src="https://media.giphy.com/media/a34HjLEsKchWM/giphy.gif" alt="gif"/>
 
@@ -31,12 +35,7 @@
 <p>-Бекенд: Node.js, Express, Sessions, CORS</p>
 <p>-Базы данных: PostgreSQL, Sequelize ORM</p>
 <p>-A также: Jest, REST</p>
-
 <hr>
-<h2>Как я прокрастинирую:</h2>
-<img src="https://www.codewars.com/users/Tymphoto/badges/large" alt="codewars" />
-
-
 
 <!--
 **tymphoto/tymphoto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
