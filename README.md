@@ -1,5 +1,5 @@
 Привет! Меня зовут Артем, я frontend JavaScript разработчик
-- 👻 PERN stack
+- 👻 PERN stack <br>
 #######################<img src="https://media.giphy.com/media/a34HjLEsKchWM/giphy.gif" alt="gif"/>
 
 <!--
