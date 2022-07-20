@@ -9,7 +9,7 @@
 
 <hr>
 <h2>Контакты:</h2>
-<p><a href="https://t.me/tymphoto"><img src="https://image.similarpng.com/very-thumbnail/2020/07/Telegram-circular-icon-vector-PNG.png" width="50px" /></a></p>
+<p><a href="https://t.me/tymphoto"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Telegram_Messenger.png/800px-Telegram_Messenger.png" width="50px" /></a></p>
 
 <!--
 **tymphoto/tymphoto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
