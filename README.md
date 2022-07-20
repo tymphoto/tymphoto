@@ -9,7 +9,7 @@
 
 <hr>
 Контакты:
-<a><img src="https://e7.pngegg.com/pngimages/63/424/png-clipart-computer-icons-scalable-graphics-telegram-logo-blue-angle.png" width="50px" /></a>
+<a href="https://t.me/tymphoto"><img src="https://png.monster/wp-content/uploads/2022/03/png.monster-258.png" width="50px" /></a>
 
 <!--
 **tymphoto/tymphoto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
