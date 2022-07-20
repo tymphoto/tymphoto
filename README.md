@@ -33,7 +33,7 @@
 <p>-A также: Jest, REST</p>
 
 <hr>
-<h2>Как я прокрастенирую:</h2>
+<h2>Как я прокрастинирую:</h2>
 <img src="https://www.codewars.com/users/Tymphoto/badges/large" alt="codewars" />
 
 
