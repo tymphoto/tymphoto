@@ -19,7 +19,7 @@
 <p>
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1024px-Unofficial_JavaScript_logo_2.svg.png" width="50px" height="50px" />
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/768px-Typescript_logo_2020.svg.png" width="50px" height="50px" />
-<img src="https://e7.pngegg.com/pngimages/362/862/png-clipart-react-logo-text-icons-logos-emojis-tech-companies.pngg" width="50px" height="50px" />
+<img src="https://e7.pngegg.com/pngimages/362/862/png-clipart-react-logo-text-icons-logos-emojis-tech-companies.png" width="50px" height="50px" />
 <img src="https://raw.githubusercontent.com/reduxjs/redux/master/logo/logo.png" width="50px" height="50px" />
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/1280px-Node.js_logo.svg.png" width="50px" height="50px" />
 <img src="https://img2.freepng.ru/20180330/zle/kisspng-microsoft-azure-sql-database-microsoft-sql-server-database-5abeaece642720.1956423515224460304102.jpg" width="50px" height="50px" />
