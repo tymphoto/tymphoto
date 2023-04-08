@@ -1,25 +1,24 @@
-<h2>Привет! Меня зовут Артем, я frontend JavaScript разработчик</h2>
+<h2> Hi! My name is Artem, I'm frontend developer</h2>
 <p>- 👻 React, TypeScript</p>
-<p>- 🧐 Обожаю веб-разработку, путешествия и фотографию</p>
-<p>- 📩 Как со мной связаться: 9256187876@mail.ru</p>
+<p>- 🧐 I'm love in web-development💻, travaling🛫 and runing🏃‍♂️</p>
+<p>- 📩 How to connect with me: 9256187876@mail.ru</p>
 <hr>
 
-<h2>Как я прокрастинирую:</h2>
+<h2>How do i procrastinate:</h2>
 <img src="https://www.codewars.com/users/Tymphoto/badges/large" alt="codewars" />
 <hr>
 
-<p>Видео как я познаю новые инструменты, смотреть онлайн без регистрации:</p> <br>
+<p>Video how I learn new technologies, watch online without registration:</p> <br>
 <img src="https://media.giphy.com/media/a34HjLEsKchWM/giphy.gif" alt="gif"/>
 
 <hr>
-<h2>Контакты:</h2>
+<h2>Contact:</h2>
 <p>
 <a href="https://t.me/tymphoto"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Telegram_Messenger.png/800px-Telegram_Messenger.png" width="50px" /></a>
-<a href="https://wa.me/79256187876"><img src="https://cdn-icons-png.flaticon.com/512/174/174879.png" width="50px" /></a>
 </p>
 
 <hr>
-<h2>Мой стек:</h2>
+<h2> My stack:</h2>
 <p>
 <img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1647490619965/P1dsNgj-f1.png" width="50px" height="50px" />
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1024px-Unofficial_JavaScript_logo_2.svg.png" width="50px" height="50px" />
