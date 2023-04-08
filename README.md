@@ -31,10 +31,8 @@
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/768px-HTML5_logo_and_wordmark.svg.png" width="50px" height="50px" />
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1452px-CSS3_logo_and_wordmark.svg.png" width="50px" height="50px" />
 </p>
-<p>-Фронтенд: JS, TypeScript, React, API, Redux (Saga, Thunk), HTML5, CSS3, Sass, Handlebars</p>
-<p>-Бекенд: Node.js, Express</p>
-<p>-Базы данных: PostgreSQL</p>
-<p>-A также: Webpack, Jest, Storybook </p>
+<p>- TypeScript, JavaScript, React, Redux, HTML5, CSS3, Sass, SCSS</p>
+<p>-Webpack, Vite, Jest, Storybook </p>
 <hr>
 
 <!--
