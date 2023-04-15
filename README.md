@@ -33,9 +33,10 @@
 <img src="https://avatars.githubusercontent.com/u/10076935?s=280&v=4" width="50px" height="50px" />
 <img src="https://user-images.githubusercontent.com/10525473/50372432-95dcd880-0611-11e9-9432-58de9be26b3b.png" width="50px" height="50px" />
 <img src="https://avatars.githubusercontent.com/u/22632046?s=280&v=4" width="50px" height="50px" />
+<img src="https://asset.brandfetch.io/idIq_kF0rb/idv3zwmSiY.jpeg" width="50px" height="50px" />
 </p>
 <p>- React, TypeScript, JavaScript, Redux, NodeJS HTML5, CSS3, Sass, SCSS</p>
-<p>- Webpack, Vite, Eslint, Stylelint, Jest, Storybook </p>
+<p>- Webpack, Vite, Eslint, Stylelint, Jest, Storybook, Cypress </p>
 <hr>
 
 <!--
